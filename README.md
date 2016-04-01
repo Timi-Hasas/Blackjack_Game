@@ -4,7 +4,8 @@ For implementing the game we only use 4 buttoms of the board and the four 8-segm
 available on the board. To do this We have had to make a simplificated version of the game. 
 The changes we have done are:
 - "As" card only have one value and is one 
-- This is a 2 player game 
+- This is a 2 player game
+- Face cards appear on display only by his numeric value
 
 The game dynamic is: 
 1) Turn on the board
