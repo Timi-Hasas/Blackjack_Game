@@ -1,5 +1,5 @@
 # Blackjack_Game
-Here in this projec, We have implementated the blackjack game on FPGA spartan 3
+Here in this projec, We have implementated the blackjack game on FPGA spartan 3 (VHDL)
 For implementing the game we only use 4 buttoms of the board and the four 8-segments display 
 available on the board. To do this We have had to make a simplificated version of the game. 
 The changes we have done are:
